@@ -48,9 +48,9 @@ Make sure you have Python 3.x installed and have `pip` to install packages.
 To run the emotion recognition model, use the following steps:
 
 1. Download the dataset and place it in the project folder (make sure the data is in the correct directory format).
-2. Run the `emotion_detection.py` script:
+2. Run the `emotion_detection.ipynb` script:
    ```bash
-   python emotion_detection.py
+   python emotion_detection.ipynb
    ```
 3. The script will read an image file, detect faces, and predict the emotion of the face. You can use your own images for testing.
 

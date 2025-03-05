@@ -15,7 +15,8 @@ This repository contains all the necessary files, including the trained model, c
 3. [Dataset](#dataset)
 4. [Model Architecture](#model-architecture)
 5. [Results](#results)
-6. [License](#license)
+6. [Evaluate](#evaluate)
+7. [License](#license)
 
 ---
 
